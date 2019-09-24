@@ -1,2 +1,1 @@
-# Note
-N-dimensional RTree implementation in C++
+A N-dimensional RTree implementation in C++
