@@ -1,2 +1,2 @@
-# RTree-Index
-RTree-Index
+# RTree
+Rtree
